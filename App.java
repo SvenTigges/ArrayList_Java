@@ -9,21 +9,21 @@ public class App {
 		
 		// ArrayList (AL) anlegen ...
 		
-		ArrayList<String> carMakers = new ArrayList<>();
+		// ArrayList<String> carMakers = new ArrayList<>();
 		
-		System.out.println(carMakers);
-		System.out.println(carMakers.size());
-//		
-//		// AL dynamisch füllen (JS --> push() / J --> add())
-//		
-//		carMakers.add("Volvo");
-//		carMakers.add("BMW");
-//		carMakers.add("Ford");
-//		carMakers.add("Honda");
-//		carMakers.add("Tesla");
-//		
-//		System.out.println(carMakers);
-//		System.out.println(carMakers.size());
+		// System.out.println(carMakers);
+		// System.out.println(carMakers.size());
+		
+		// // AL dynamisch fÃ¼llen (JS --> push() / J --> add())
+		
+		// carMakers.add("Volvo");
+		// carMakers.add("BMW");
+		// carMakers.add("Ford");
+		// carMakers.add("Honda");
+		// carMakers.add("Tesla");
+		
+		// System.out.println(carMakers);
+		// System.out.println(carMakers.size());
 //		
 //		// Daten aus AL lesen
 //		System.out.println(carMakers.get(0));
@@ -44,7 +44,7 @@ public class App {
 //		System.out.println("");
 //		System.out.println("------- Iteration 2 ---------");
 //		
-//		// Daten in AL ersetzen / überschreiben
+//		// Daten in AL ersetzen / ï¿½berschreiben
 //		carMakers.set(1, "MB");
 //		System.out.println(carMakers);
 //		
@@ -65,25 +65,25 @@ public class App {
 //		carMakers.clear();
 //		System.out.println(carMakers);
 //		
-//		System.out.println("");
-//		System.out.println("-------Thema: Wrapper -------------");
-//		
-//		//ArrayList<String> strList = new ArrayList<>();
-//		
-//		//ArrayList<int> intList = new ArrayList<>();
-//		// Lösung: Wrapper
+		System.out.println("");
+		System.out.println("-------Thema: Wrapper -------------");
 		
-//		//int boo = 2;
+		//ArrayList<String> strList = new ArrayList<>();
+//		
+//		ArrayList<int> intList = new ArrayList<>();
+//		// LÃ¶sung: Wrapper
+		
+//		int boo = 2;
 //		Integer boo = 2;
 //		System.out.println("Inhalt: " + boo.intValue());
 //		
-//		ArrayList<Integer> intList = new ArrayList<>();
-//		
-//		intList.add(10);
-//		intList.add(11);
-//		intList.add(12);
-//		
-//		System.out.println(intList);
+		// ArrayList<Integer> intList = new ArrayList<>();
+		
+		// intList.add(10);
+		// intList.add(11);
+		// intList.add(12);
+		
+		// System.out.println(intList);
 		
 		
 	}
